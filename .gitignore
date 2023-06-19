@@ -1,3 +1,5 @@
 configfile.ini
 chromedriver
-/output/
+/output/username.csv
+/output/lnctweets.db
+/source/
